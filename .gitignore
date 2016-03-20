@@ -37,3 +37,4 @@ bin/*
 
 # Debug files
 *.dSYM/
+/bin/
